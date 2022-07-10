@@ -1,0 +1,12 @@
+Created by: Wesley TJ Yango - 01-08-2021
+SCREEP APP:
+
+	*CLICKING/RUNNING THE APP WILL TAKE 1 TO 3 MINUTES TO RUN at first it will 
+show a COMMAND WINDOW then wait for 1 to 3 minutes and after that, the SCREENING APP 
+will show on your desktop. 
+
+	*The excel file(Info.xlsx) show be at the same folder of SCREEN APP because the
+SCREEN APP will find the excel file to insert all the data that been inout by the user 
+or Customer.  
+
+	*We have included a video in this folder for you to know on how to use the app.
